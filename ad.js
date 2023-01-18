@@ -2,7 +2,7 @@ module.exports.config = {
   name: "ad",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "TuanDz",
+  credits: "Tuantvt",
   description: "info admin nè",
   commandCategory: "Admin",
   usages: "ad",
